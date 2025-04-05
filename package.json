@@ -1,0 +1,9 @@
+{
+  "name": "threejs-cube",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'This is a static project, no build step required.'",
+    "build": "echo 'No build step required for this static project.'"
+  },
+  "dependencies": {}
+}
