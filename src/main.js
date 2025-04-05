@@ -1,5 +1,5 @@
-import * as THREE from 'https://cdn.skypack.dev/three@0.140.0';
-import { OrbitControls } from 'https://cdn.skypack.dev/three@0.140.0/examples/jsm/controls/OrbitControls';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.140.0/build/three.module.js';
+import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.140.0/examples/jsm/controls/OrbitControls.js';
 
 // 创建场景
 const scene = new THREE.Scene();
